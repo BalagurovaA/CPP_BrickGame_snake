@@ -2,12 +2,15 @@
 ## Установка и запуск
 Для запуска программы необходимо:
 - склонировать репозиторий
+
+`git clone https://github.com/BalagurovaA/CPP_BrickGame_snake`
+`./CPP_BrickGame_snake/src/brick_game/snake`
+
 - перейти в папку
 - выполнить команду `gcc -Wall -Werror -Wextra -std=c++17 -lncurses -lstdc++`
 - запустить exe-файл `./a.out`
 
-`git clone https://github.com/BalagurovaA/CPP_BrickGame_snake`
-`./CPP_BrickGame_snake/src`
+
 
 ## Part 1
 - Программа разработана на языке C++ стандарта C++17
