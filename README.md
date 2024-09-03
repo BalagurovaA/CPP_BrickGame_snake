@@ -17,14 +17,14 @@
 
 - Игровое поле — десять «пикселей» в ширину и двадцать «пикселей» в высоту.
 
-<br> <img src="./../images/snake_fsm.png" alt="snake menu" width="600" />
+<br> <img src="./src/images/snake_fsm.png" alt="fsm_graph" width="600" />
 ## Part 2 Способ управления 
 
 Терминал: 
 1. После запуска открывается меню в котором можно выбрать переход к следующим окнам
 - START -> переход к игре
 - EXIT  -> выход из игры, нажмите Enter, после этого нажмите 'q'
-<br> <img src="./../images/snake_menu.png" alt="snake menu" width="400" />
+<br> <img src="./src/images/snake_menu.png" alt="snake menu" width="400" />
 
 2. После кнопки старт у программы присутствует управление:
 
@@ -37,7 +37,7 @@
 - Удержание стрелки вниз: `ускорение`
 - Кнопка 'p':  `пауза`
 
-<br> <img src="./../images/snake_game.png" alt="snake menu" width="400" />
+<br> <img src="./src/images/snake_game.png" alt="snake game" width="400" />
 
 Внимание!
 Изначально голова змейки "смотрит" вниз, начинайте игру с кнопок вниз/вправо/влево
@@ -45,8 +45,8 @@
 3. После нажатия кнопки пауза октывается окно паузы с возможностью продолжить игру и с возможностью выхода из игры. После выхода из игры нужно нажать кнопку Enter и откроется окно final.
 
 
-<br> <img src="./../images/snake_pause.png" alt="snake menu" width="400" />
-<br> <img src="./../images/snake_gameover.png" alt="snake menu" width="400" />
+<br> <img src="./src/images/snake_pause.png" alt="snake pause" width="400" />
+<br> <img src="./src/images/snake_gameover.png" alt="snake gemover" width="400" />
 
 4. Боковая панель
 При старте игры справа возникает боковая панель на которой изображены: уровень, рекорд, скорость для возможного мониторинга процесса игры 
@@ -67,11 +67,11 @@
 ## Part 3 Desktop Version
 
 
-<br> <img src="./../images/snake_m_d.png" alt="snake menu" width="400" />
+<br> <img src="./src/images/snake_m_d.png" alt="snake menu desk" width="400" />
 
-<br> <img src="./../images/snake_m_g.png" alt="snake menu" width="400" />
+<br> <img src="./src/images/snake_m_g.png" alt="snake game desk" width="400" />
 
-<br> <img src="./../images/snake_m_go.png" alt="snake menu" width="400" />
+<br> <img src="./src/images/snake_m_go.png" alt="snake gameover desk" width="400" />
 
 
 
